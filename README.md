@@ -21,6 +21,8 @@ Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## Results
 
+[link to dashboard](LINK GOES HERE)
+
 ## Summary
 
-## Resources
+### Resources
