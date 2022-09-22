@@ -1,6 +1,7 @@
 # Bikesharing
 Analyzing bike-sharing data for potential investors
 
+## Overview
 
 still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
@@ -17,3 +18,9 @@ This new assignment consists of two technical analysis deliverables and a writte
 Deliverable 1: Change Trip Duration to a Datetime Format
 Deliverable 2: Create Visualizations for the Trip Analysis
 Deliverable 3: Create a Story and Report for the Final Presentation
+
+## Results
+
+## Summary
+
+## Resources
