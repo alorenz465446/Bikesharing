@@ -14,8 +14,9 @@ Creating a set of visualizations to:
 
 ## Results
 
-[link to full Tableau report](https://public.tableau.com/app/profile/alexis.lorenz/viz/CitibikeStory_16639663078800/Citibike_Story?publish=yes)
+[Link to Full Tableau Report](https://public.tableau.com/app/profile/alexis.lorenz/viz/CitibikeStory_16639663078800/Citibike_Story?publish=yes)
 
 ## Summary
+The analysis shows that bikes were mostly checked out by male subscribers. Also, bikes were checked out usually between the hours of 8-9am and 5-7pm. This consisted of an average trip time around 5-6 minutes. The busiest days were Monday, Tuesday, Thursday, and Friday. I would suggest to create a visualization for the age and tripduraton. A visualization for the stations (start and end) with tripdration to see distance among trips could be useful as well. 
 
 ### Resources
