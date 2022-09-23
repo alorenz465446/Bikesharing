@@ -26,10 +26,10 @@ The most populaer times people rode were between the hours of 8-9am and 5-7pm.
 Males and Females road an average of 5-6 minutes per trip.
 
 <img width="376" alt="citibike_tripcount" src="https://user-images.githubusercontent.com/107652317/192062151-54b2a5d9-d657-4161-b0c6-cfca2ed5c28b.PNG">
-Total trip count
+Trips were mostly taken by males between the hours of 5-6pm on a Thursday 
 
 <img width="372" alt="citibike_tripbyuserandgender" src="https://user-images.githubusercontent.com/107652317/192062179-0e0178fa-eb95-45de-8671-d54268dbb01b.PNG">
-Trips by user and gender
+Subscribers were more abundant than customers and they were mostly male
 
 <img width="466" alt="citibike_user" src="https://user-images.githubusercontent.com/107652317/192062764-f810c515-a943-4ea7-8805-dc6250405f06.PNG">
 Users per trip
