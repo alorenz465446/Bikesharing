@@ -17,13 +17,13 @@ Creating a set of visualizations to:
 [Link to Full Tableau Report](https://public.tableau.com/app/profile/alexis.lorenz/viz/CitibikeStory_16639663078800/Citibike_Story?publish=yes)
 
 <img width="355" alt="citibike_tripdayofweek" src="https://user-images.githubusercontent.com/107652317/192061971-2cc2d48a-8e72-47f3-9841-645b6d86520b.PNG">
-
+The most popular days of the week for riders is Monday, Tuesday, Thnursday, and Friday.
 
 <img width="623" alt="bikeciti_tripbyhour" src="https://user-images.githubusercontent.com/107652317/192061798-f4702fd0-4bf9-45e8-8f64-29a019435579.PNG">
-Number of trips by the hour of the day
+The most populaer times people rode were between the hours of 8-9am and 5-7pm. 
 
 <img width="569" alt="bikeciti_tripduration" src="https://user-images.githubusercontent.com/107652317/192061878-9fa2494d-d845-4752-89d9-5a1283f15666.PNG">
-Trip duration for all riders by gender
+Males and Females road an average of 5-6 minutes per trip.
 
 <img width="376" alt="citibike_tripcount" src="https://user-images.githubusercontent.com/107652317/192062151-54b2a5d9-d657-4161-b0c6-cfca2ed5c28b.PNG">
 Total trip count
@@ -40,7 +40,7 @@ Users per trip
 
 
 ## Summary
-The analysis shows that bikes were mostly checked out by male subscribers. Also, bikes were checked out usually between the hours of 8-9am and 5-7pm. This consisted of an average trip time around 5-6 minutes. The busiest days were Monday, Tuesday, Thursday, and Friday. I would suggest to create a visualization for the age and gender. A visualization for the stations (start and end) with tripdration to see the distance among trips could be useful as well. 
+The analysis shows that bikes were mostly checked out by males and were subscribers. Possibly meaning that customers and females ride more on the weekend. Also, bikes were checked out usually between the hours of 8-9am and 5-7pm. This indicates that the bikes were most likely used for work commute. The trips consisted of an average trip time around 5-6 minutes. The busiest days were Monday, Tuesday, Thursday, and Friday. I would suggest to create a visualization for the age and gender. A visualization for the stations (start and end) with tripdration to see the distance among trips that is traveled could be useful as well. 
 
 ### Resources
 
