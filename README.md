@@ -21,7 +21,7 @@ Creating a set of visualizations to:
 <img width="355" alt="citibike_tripdayofweek" src="https://user-images.githubusercontent.com/107652317/192061971-2cc2d48a-8e72-47f3-9841-645b6d86520b.PNG">
 The most popular days of the week for riders is Monday, Tuesday, Thnursday, and Friday.
 
-<br />
+&ensp;
 
 <img width="623" alt="bikeciti_tripbyhour" src="https://user-images.githubusercontent.com/107652317/192061798-f4702fd0-4bf9-45e8-8f64-29a019435579.PNG">
 The most populaer times people rode were between the hours of 8-9am and 5-7pm. 
