@@ -26,7 +26,7 @@ The most popular days of the week for riders is Monday, Tuesday, Thnursday, and 
 <img width="623" alt="bikeciti_tripbyhour" src="https://user-images.githubusercontent.com/107652317/192061798-f4702fd0-4bf9-45e8-8f64-29a019435579.PNG">
 The most populaer times people rode were between the hours of 8-9am and 5-7pm. 
 
-<br />
+&ensp;
 
 <img width="569" alt="bikeciti_tripduration" src="https://user-images.githubusercontent.com/107652317/192061878-9fa2494d-d845-4752-89d9-5a1283f15666.PNG">
 Males and Females road an average of 5-6 minutes per trip.
